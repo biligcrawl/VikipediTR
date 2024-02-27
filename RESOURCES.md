@@ -35,6 +35,8 @@ https://dumps.wikimedia.org/
 
 https://meta.wikimedia.org/wiki/Mirroring_Wikimedia_project_XML_dumps
 
+https://academictorrents.com/details/0852ef544a4694995fcbef7132477c688ded7d9a?stats=True
+
 #### WARC
 
 https://github.com/ikreymer/webarchiveplayer
