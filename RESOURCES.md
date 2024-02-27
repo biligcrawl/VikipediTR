@@ -34,3 +34,9 @@ https://academictorrents.com/details/0852ef544a4694995fcbef7132477c688ded7d9a
 https://dumps.wikimedia.org/
 
 https://meta.wikimedia.org/wiki/Mirroring_Wikimedia_project_XML_dumps
+
+#### WARC
+
+https://github.com/ikreymer/webarchiveplayer
+
+https://pypi.org/project/FastWARC/
