@@ -33,7 +33,8 @@ jobs:
           git init
           git add .
           git commit -m "Update project files"
-          git remote add origin https://huggingface.co/datasets/biligcrawl/WikipediaTR || true
+          git remote remove origin || true
+          git remote add origin https://huggingface.co/datasets/biligcrawl/WikipediaTR
           git pull origin master --allow-unrelated-histories -X theirs
           git push -u origin master
         env:
