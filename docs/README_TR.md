@@ -310,8 +310,8 @@ sudo systemctl status text.service
 ---
 
 ### Documentations
-#### Turkish Readme
-- [README_TR](docs/README_TR.md)
+#### English Readme
+- [README](../README.md)
 ---
 
 #### TO DO list
