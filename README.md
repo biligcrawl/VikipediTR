@@ -19,7 +19,7 @@ This product is for ...
 - [Resources](#resources)
 - [Citation](#citation)
 
-###### Github Action Test
+###### Github Action Test 1
 
 ### Prerequisites
 - Python 3.10
