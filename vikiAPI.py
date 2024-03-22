@@ -11,6 +11,7 @@ logging.basicConfig(filename='unexpected_titles.log',
                     level=logging.ERROR,
                     format='%(asctime)s:%(levelname)s:%(message)s')
 
+
 def log_error(title, error_message):
     logging.error(f"Title: {title}, Error: {error_message}")
 

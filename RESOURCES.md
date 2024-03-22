@@ -42,3 +42,12 @@ https://academictorrents.com/details/0852ef544a4694995fcbef7132477c688ded7d9a?st
 https://github.com/ikreymer/webarchiveplayer
 
 https://pypi.org/project/FastWARC/
+
+
+### Wikipedia Tum sayfalar
+
+https://tr.wikipedia.org/wiki/%C3%96zel:T%C3%BCmSayfalar
+
+### Wikipedia dumps
+
+https://dumps.wikimedia.org/trwiki/latest/
